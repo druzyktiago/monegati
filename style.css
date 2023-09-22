@@ -273,7 +273,7 @@ font-size: 10px;
 @font-face {
 
   font-family: "cebo"; /* Nome da fonte que você usará */
-  src: url("/font/cebo.ttf"); /* Substitua pelo caminho real do arquivo de fonte */
+  src: url("./font/cebo.ttf"); /* Substitua pelo caminho real do arquivo de fonte */
 
 }
 
