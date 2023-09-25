@@ -120,8 +120,8 @@ body, html {
   font-size: 11px;
   text-align: center; /* Centraliza horizontalmente o texto */
   line-height: 31.5px; /* Centraliza verticalmente o texto */
-  background: linear-gradient(to bottom, #f3db01 0%, #d8c200 100%); /* Gradiente de cores para o botão */
-  color: #333; /* Cor do texto */
+  background: linear-gradient(to bottom, #333 0%, #333 100%); /* Gradiente de cores para o botão */
+  color: #d8c200; /* Cor do texto */
   transition: transform 0.2s ease-in-out; /* Adiciona uma transição suave ao efeito de elevação */
 }
 
